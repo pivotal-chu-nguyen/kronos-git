@@ -1,5 +1,4 @@
-# testing restore	
-# description:  my very first go program
+		# description:  my very first go program
 		
 		package main
 		import "fmt"
